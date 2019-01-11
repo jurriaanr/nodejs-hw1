@@ -1,6 +1,6 @@
 #To run the project
 
-Go to config.js and fill in the desired port
+Go to config.js and fill in the desired ports 
 Go to the commandline and do
 
     npm install
