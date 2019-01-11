@@ -5,3 +5,5 @@ Go to the commandline and do
 
     npm install
     npm start
+
+(npm is only used to transpile es6 and for nodemon)
