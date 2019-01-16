@@ -8,4 +8,4 @@ Go to the commandline and do
 
 (npm is only used to transpile es6 and for nodemon)
 
-Now you can post a name to http://localhost:3000/hello 
+Now you can post a name or any data to http://localhost:3000/hello 
