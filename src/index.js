@@ -45,6 +45,7 @@ const serverHandler = (request, response) => {
     })
 }
 
+// configured route handlers
 const requestHandlers = {
     hello: (data, callback) => {
         callback(200, { message: `Hello, you posted ${data.body}` })
@@ -55,6 +56,7 @@ const requestHandlers = {
     },
 }
 
+// configured path's
 const router = {
     POST: {
         hello: requestHandlers.hello
